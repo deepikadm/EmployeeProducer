@@ -1,10 +1,10 @@
-package com.test.controllers;
+package com.example.controllers;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.test.model.Employee;
+import com.example.model.Employee;
 
 
 

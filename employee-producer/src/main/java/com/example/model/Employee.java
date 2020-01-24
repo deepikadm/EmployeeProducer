@@ -1,4 +1,4 @@
-package com.test.model;
+package com.example.model;
 
 public class Employee {
 	private String empId;
